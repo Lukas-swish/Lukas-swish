@@ -9,7 +9,7 @@
  
   <br>        
     <h3 align="center">
-    Sou Lukas, sou um programador iniciante em transição de carreira, estou focado no meu objetivo, atualmente estudando FullStack com <a href="https://rodolfomori.com.br/devclub-comercial/">DevClub </a> que tem foco em ensinar o que precisa no mercado de trabalho, pretendo me aperfeiçoar cada vez mais e veremos muito mais do meu trabalho por aqui.
+    Sou Lukas, um programador iniciante em transição de carreira, estou focado no meu objetivo, atualmente estudando FullStack com <a href="https://rodolfomori.com.br/devclub-comercial/">DevClub </a> que tem foco em ensinar o que precisa no mercado de trabalho, pretendo me aperfeiçoar cada vez mais e veremos muito mais do meu trabalho por aqui.
     </h3>
 
 <br>
