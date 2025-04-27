@@ -43,7 +43,7 @@
   <h3 align="left">Aonde me encontrar:</h3>
   <p align="left">
   <a href="https://x.com/Cri_sant_emo?t=7appPB1uxMTHGDy7m7PXcw&s=09" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lukkass-roberto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.instagram.com/dnv_lukas?igsh=bDM4YzEyaGt5Ym5l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
   <a href="https://lukkassroberto@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/49ab7a13-8959-4d74-9a33-b25f53717a2a" alt="" height="40" width="40" /></a>
   <a href="https://discord.com/channels/@.swishii" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2d272f1e-2282-4771-bfa3-c6facf2103ad" alt="" height="40" width="40" /></a>
